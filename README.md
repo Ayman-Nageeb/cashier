@@ -1,4 +1,4 @@
-# casheer
+# cashier
 
 ## Project setup
 ```
